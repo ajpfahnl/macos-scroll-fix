@@ -1,14 +1,7 @@
 # Discrete Scroll
 
-[![Downloads](https://img.shields.io/github/downloads/emreyolcu/discrete-scroll/total.svg)](https://github.com/emreyolcu/discrete-scroll/releases)
-
-Fix for OS X's scroll wheel problem
-
-## Installation
-
-You may download the binary
-[here](https://github.com/emreyolcu/discrete-scroll/releases/download/v0.1.1/DiscreteScroll.zip). It
-runs in the background and allows you to scroll 3 lines with each tick of the
+Fix for MacOS's scroll wheel problem for mice. Fork of project [here] (https://github.com/emreyolcu/discrete-scroll)
+It runs in the background and allows you to scroll 3 lines with each tick of the
 wheel.
 
 It needs to be run each time you boot. If you want this to be automatic you
