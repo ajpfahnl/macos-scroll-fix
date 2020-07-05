@@ -1,6 +1,6 @@
 # Discrete Scroll
 
-Fix for MacOS's scroll wheel problem for mice. Fork of project [here] (https://github.com/emreyolcu/discrete-scroll)
+Fix for MacOS's scroll wheel problem for mice. Fork of project [here](https://github.com/emreyolcu/discrete-scroll)
 It runs in the background and allows you to scroll 3 lines with each tick of the
 wheel.
 
